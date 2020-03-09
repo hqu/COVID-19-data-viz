@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## COVID-19 Data Visualizations
 
 You can use the [editor on GitHub](https://github.com/hqu/COVID-19-data-viz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
